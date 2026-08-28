@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Armin (KaijoNo7) 👋</h1>
 
 <p align="center">
-  <b>AI Enthusiast · Backend Developer · Automation Specialist · Aspiring Game Creator</b>
+  <b>Building the Future, One Line of Code at a Time</b>
 </p>
 
 ---
@@ -32,5 +32,5 @@ When I'm not coding for work, I'm probably prototyping a game mechanic or explor
 
 ### 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/kagenovastudi](https://www.instagram.com/kagenovastudio?igsi=M3VyNjM5YWpnbG1u)) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-shaddaman-6b5569360)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kagenovastudio?igsi=M3VyNjM5YWpnbG1u) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-shaddaman-6b5569360?utm_source=share_via&utm_content=profile&utm_medium=member_android)
