@@ -30,13 +30,6 @@ When I'm not coding for work, I'm probably prototyping a game mechanic or explor
 
 ---
 
-### 📌 Currently Working On
-
-- [`load-bartar`](https://github.com/KaijoNo7/load-bartar) – 6 commits (Active development)  
-- [`tasty-tack`](https://github.com/FayaTech-repo/tasty-tack) – 4 commits (Collaboration)
-
----
-
 ### 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kagenovastudi) 
