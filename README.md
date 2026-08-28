@@ -11,8 +11,7 @@
 ---
 ### 🚀 About Me
 
-I'm a curious developer who loves building smart systems. 
-From fine-tuning Large Language Models to writing clean backend code and automating workflows. I enjoy bringing ideas to life. 
+I love creating new technology and driving growth in my work and life. Progress should be flexible, not annoying.
 ---
 ### 🛠️ My Skills & Interests
 
