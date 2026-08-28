@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Armin (KaijoNo7) 👋</h1>
+<h1 align="center">Hi there, I'm Armin Shaddaman 👋</h1>
 
 <p align="center">
   <b>Building the Future, One Line of Code at a Time</b>
