@@ -7,17 +7,12 @@
 <p align="center">
   <b>Building the Future, One Line of Code at a Time</b>
 </p>
-
 ---
-
 ### 🚀 About Me
 
 I'm a curious developer who loves building smart systems. 
 From fine-tuning Large Language Models to writing clean backend code and automating workflows. I enjoy bringing ideas to life. 
-When I'm not coding for work, I'm probably prototyping a game mechanic or exploring new AI research.
-
 ---
-
 ### 🛠️ My Skills & Interests
 
 - **🤖 Artificial Intelligence & LLMs**  
@@ -31,9 +26,7 @@ When I'm not coding for work, I'm probably prototyping a game mechanic or explor
 
 - **🎮 Game Development (Passion)**  
   Turning creative ideas into interactive experiences. I explore Unity and Unreal Engine to build immersive gameplay and learn the art of level design.
-
 ---
-
 ### 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kagenovastudio?igsi=M3VyNjM5YWpnbG1u) 
