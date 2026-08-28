@@ -32,11 +32,5 @@ When I'm not coding for work, I'm probably prototyping a game mechanic or explor
 
 ### 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kagenovastudi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/kagenovastudi](https://www.instagram.com/kagenovastudio?igsi=M3VyNjM5YWpnbG1u)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-shaddaman-6b5569360)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaijoNo7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
