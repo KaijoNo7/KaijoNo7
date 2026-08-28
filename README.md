@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 I'm a curious developer who loves building smart systems. 
-From fine-tuning Large Language Models to writing clean backend code and automating workflows—I enjoy bringing ideas to life. 
+From fine-tuning Large Language Models to writing clean backend code and automating workflows. I enjoy bringing ideas to life. 
 When I'm not coding for work, I'm probably prototyping a game mechanic or exploring new AI research.
 
 ---
