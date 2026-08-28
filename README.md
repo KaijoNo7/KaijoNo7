@@ -23,9 +23,6 @@ I love creating new technology and driving growth in my work and life. Progress 
 
 - **⚙️ Bots & Automation**  
   Designing intelligent bots for various platforms and automating repetitive tasks. My goal is to eliminate manual work and boost productivity through clean, reliable scripts.
-
-- **🎮 Game Development (Passion)**  
-  Turning creative ideas into interactive experiences. I explore Unity and Unreal Engine to build immersive gameplay and learn the art of level design.
 ---
 ### 🌐 Connect with Me
 
